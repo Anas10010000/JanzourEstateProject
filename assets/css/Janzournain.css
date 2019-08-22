@@ -1,0 +1,18 @@
+.headernav{
+    background-color: aquamarine;
+}
+.navbar  {
+    display: flex;
+    flex-flow: row-reverse; 
+
+} 
+.navbar-toggler {
+    margin: 20px;
+}
+.form-control{
+    direction:RTL;
+}
+.nav-link{
+    font-weight: bold;
+}
+
