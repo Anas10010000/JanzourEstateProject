@@ -1,0 +1,8 @@
+.collapse {
+    display: flex;
+    flex-flow: row-reverse;
+}
+.navbar  {
+    display: flex;
+    flex-flow: row-reverse;
+}
